@@ -19,7 +19,7 @@ and at least one endpoint has been detected through the proxy.
 
 Syntax: 
 
-      $ POST /example/endpoint?p1=value&p2=value
+      POST /example/endpoint?p1=value&p2=value
 
 Usage
 -----
