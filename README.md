@@ -1,9 +1,10 @@
 <p align="center">
 <img src="https://github.com/vkg-07/XSS-Detector/blob/main/files/XSS_Detector.png">
 </p>
+Current version: 1.0
+
 
 This is a Burp Suite extension designed to detect different endpoints and validate possible XSS vulnerabilities in a given domain.
-Current version: 1.0
 
 Endpoint Detection
 ------------------
