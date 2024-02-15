@@ -3,7 +3,7 @@
 </p>
 
 This is a Burp Suite extension designed to detect different endpoints and validate possible XSS vulnerabilities in a given domain.
-
+Current version: 1.0
 
 Endpoint Detection
 ------------------
