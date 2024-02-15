@@ -16,6 +16,7 @@ Add an endpoint manually
 
 In addition to endpoint detection, it is possible to add endpoints manually, provided that the given endpoint domain has been specified in advance 
 and at least one endpoint has been detected through the proxy.
+
 Syntax: 
 
       $ POST /example/endpoint?p1=value&p2=value
